@@ -1,0 +1,2 @@
+# fastergo.id
+DATABASE1
